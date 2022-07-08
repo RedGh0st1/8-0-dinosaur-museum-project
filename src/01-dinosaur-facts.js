@@ -110,6 +110,7 @@ function getDinosaurDescription(dinosaurs, id) {
  *  getDinosaursAliveMya(dinosaurs, 65, "unknown-key");
  *  //> ["WHQcpcOj0G"]
  */
+
 function getDinosaursAliveMya(dinosaurs, mya, key) {
   let result = []
 
